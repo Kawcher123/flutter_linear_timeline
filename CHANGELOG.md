@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* A new Flutter package to generate linear timeline with dynamic length.
