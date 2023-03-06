@@ -1,7 +1,7 @@
 name: flutter_linear_timeline
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Kawcher123/flutter_linear_timeline/
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
