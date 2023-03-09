@@ -9,5 +9,4 @@ lineList: profileLineList,
 currentIndex: index,
 )
 
-
-![Screenshot](1.png)
+![Image description](/assets/1.png)
